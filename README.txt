@@ -16,7 +16,7 @@ Before you begin, ensure you have the following tools installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kollydap/aspnet.git
+   git clone https://github.com/Atridox/aspnet.git
 
 
 cd aspnet
